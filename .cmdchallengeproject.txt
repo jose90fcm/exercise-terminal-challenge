@@ -1,0 +1,12 @@
+1)CD thecmdchallenge/
+2)pwd
+3)ls -a
+4)ls -r
+5)clear
+6) cd cmdchallenge/small-name
+    cd */
+    cat trophy.txt
+7) cd thecmdchallenge/
+    cd funcode
+    ls *.js
+8)mkdir thecmdchallenge/funcode/the-most-funny/not-that-funny
